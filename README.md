@@ -6,4 +6,4 @@ Add
 ```
 to the `tsconfig.json`.
 
-Check the [src/app/app.component.ts](app.component.ts)
+Check the [src/app/app.component.ts](src/app/app.component.ts)
